@@ -1,0 +1,40 @@
+{
+    "is_logged_in": true,
+    "is_account_created": true,
+    "username": "Jakub1",
+    "password": "123",
+    "money": 38.0,
+    "history": [
+        {
+            "time": "20:35",
+            "money": 5.0,
+            "action": "Deposit"
+        },
+        {
+            "time": "20:35",
+            "money": 5.0,
+            "action": "Withdraw"
+        },
+        {
+            "time": "20:35",
+            "money": 1.0,
+            "action": "Withdraw"
+        },
+        {
+            "time": "20:35",
+            "money": 5.0,
+            "action": "Deposit"
+        },
+        {
+            "time": "14:16",
+            "money": 6.0,
+            "action": "Deposit"
+        }
+    ],
+    "currencies": [
+        "PLN",
+        "EUR",
+        "USD",
+        "GBP"
+    ]
+}
